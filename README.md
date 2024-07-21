@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *Anime and Sketching *
 
-- 📫 How to reach me **
+- 📫 How to reach me *dark.45knight.10@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
