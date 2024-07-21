@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Lokesh Bisht</h1>
 <h3 align="center">A Newbie developer</h3>
-<img align="right" alt="coding" width="400" src="https://search.brave.com/images?q=rimaru%20gif"
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/_gj8BWo1cfYfaGJDMhC6uONhOH_gNtdMVd60rj2sTMw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eUJKWnRYQ3ZrTGtB/QUFBTS90ZW5zdXJh/LXJpbXVydS5naWY.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inferno005&label=Profile%20views&color=0e75b6&style=flat" alt="inferno005" /> </p>
 
